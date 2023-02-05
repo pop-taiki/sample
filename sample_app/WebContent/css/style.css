@@ -1,0 +1,22 @@
+body {
+	/*background-color:#8ea0ea;*/
+}
+
+header {
+	width:700px;
+	height:100%;
+    margin:0 auto;
+}
+.contents {
+	width:700px;
+	height:100%;
+    margin:0 auto;
+}
+
+.container-fluid {
+	width:700px;
+	height:100%;
+	margin-right:auto;
+	margin-left:auto;
+	max-width:900px;
+}
